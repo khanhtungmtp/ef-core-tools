@@ -12,14 +12,18 @@
 
 ## Current features
 > ![Menu](https://github.com/khanhtungmtp/ef-core-tools/blob/master/images/menu.png?raw=true)
->   - Add Project
 >   - Create Solution
+>   - Add Project
 >   - Create Class
 >   - Create Interface
 >   - Create Record
 >   - Create Struct
+>   - Create IServices
+>   - Create Services
+>   - Create Api Contronller Extend
 >   - Create Api Contronller
 >   - Create MVC Contronller
+>   - Create Razor Page
 >   - Scaffold Ef core C#
 ## Add Project to solution
 <h3 align="center">
