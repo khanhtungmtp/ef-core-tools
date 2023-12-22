@@ -13,7 +13,11 @@
 ## Current features
 > ![Menu](https://github.com/khanhtungmtp/ef-core-tools/blob/master/images/menu.png?raw=true)
 >   - Create Solution
->   - Add Project
+>   - Add Project to Solution
+>   - Build Project .NETCore
+>   - Run Project .NETCore
+>   - Run Project Angular
+>   - Publish Project Angular
 >   - Create Class
 >   - Create Interface
 >   - Create Record
